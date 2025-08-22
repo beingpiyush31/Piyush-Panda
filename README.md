@@ -1,24 +1,115 @@
-# Piyush-Panda
-Hey I am  a Full-Stack &amp; UIUX developer
-<h1 align="center">Hi 👋, I'm Piyush Panda</h1>
-<h3 align="center">A passionate Product Developer from India</h3>
+# Hi there! I'm Piyush Panda 👨‍🎨
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beingpiyush31&label=Profile%20views&color=0e75b6&style=flat" alt="beingpiyush31" /> </p>
+## Product Designer | UI/UX Designer | 2+ Years Experience
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beingpiyush31" alt="beingpiyush31" /></a> </p>
+*Crafting intuitive digital experiences through human-centered design*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/piyush-panda-257576282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/piyush-panda-257576282" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 🎯 About Me
+I'm a passionate Product Designer with 2+ years of experience creating user-centric digital solutions. I bridge the gap between user needs and business goals through thoughtful design, research, and prototyping. My journey combines creativity with analytical thinking to solve complex design challenges.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beingpiyush31&show_icons=true&locale=en&layout=compact" alt="beingpiyush31" /></p>
+**Currently focused on:** Mobile-first design, Design Systems, and User Research
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beingpiyush31&show_icons=true&locale=en" alt="beingpiyush31" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beingpiyush31&" alt="beingpiyush31" /></p>
+### 🛠️ Design Process & Skills
 
+**🔍 Research & Strategy**
+- User Research & Persona Development
+- Competitive Analysis
+- Information Architecture
+- User Journey Mapping
 
+**✏️ Design & Prototyping**
+- Wireframing & Prototyping
+- Visual Design & Branding
+- Interaction Design
+- Design System Development
+
+**🧪 Testing & Iteration**
+- Usability Testing
+- A/B Testing
+- Design QA
+- Cross-functional Collaboration
+
+---
+
+### 🎨 Design Tools & Technologies
+
+**Primary Design Stack:**
+- **Design:** Figma, Adobe XD, Sketch
+- **Prototyping:** Figma, Principle, ProtoPie
+- **Graphics:** Adobe Illustrator, Photoshop
+- **Research:** Maze, UserTesting, Hotjar
+
+**Technical Skills:**
+- **Frontend:** HTML5, CSS3, JavaScript (React basics)
+- **Collaboration:** Git, Slack, Notion, Miro
+- **Analytics:** Google Analytics, Mixpanel
+
+---
+
+### 🏆 Design Achievements & Impact
+
+- **User Engagement:** Improved user engagement by 35% through redesigned onboarding flow
+- **Conversion Rate:** Increased conversion rates by 28% with optimized checkout process
+- **Design System:** Built and maintained design system used across 5+ product teams
+- **Awards:** Winner of College Design Competition 2023
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=beingpiyush31&label=Profile%20views&color=6366f1&style=for-the-badge)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beingpiyush31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beingpiyush31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=beingpiyush31&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)
+
+</div>
+
+---
+
+### 🎨 Featured Design Work
+
+**💡 Currently Working On:**
+- Personal portfolio redesign with case studies
+- Open-source design system for developers
+- UX research toolkit for startups
+
+**📱 Recent Projects:**
+- E-commerce mobile app redesign (Figma)
+- SaaS dashboard UX optimization
+- Design system documentation site
+
+---
+
+### 🤝 Let's Connect & Collaborate
+
+I'm always excited to discuss design, share insights, and collaborate on meaningful projects. Whether you're looking for design feedback, want to brainstorm ideas, or explore collaboration opportunities, feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-panda-257576282)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=safari&logoColor=white)](#)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](#)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](#)
+
+</div>
+
+---
+
+### 💭 Design Philosophy
+
+*"Good design is not just about how it looks, but how it works. Every pixel should serve a purpose, and every interaction should feel natural. I believe in designing with empathy, backed by data, and driven by user needs."*
+
+---
+
+<div align="center">
+<i>✨ Always learning, always designing, always growing ✨</i>
+</div>

@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Hi there! I'm Piyush Panda 
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Product+Designer;UI%2FUX+Designer;Creative+Problem+Solver;Design+Systems+Expert;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Aspiring+Product+Developer;Innovative+UI%2FUX+Designer;Creative+Problem+Solver;Design+Systems+Expert;" />
 
 </div>
 
